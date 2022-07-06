@@ -103,3 +103,17 @@ footer{
     width: 50%;
     margin: auto;
 } */
+
+.databox{
+    width: 30%;
+    margin: 20px;
+    height: 100px;
+}
+.databoxsection{
+    height: auto;
+}
+.vl {
+    border-left: 2px solid gray;
+    height: 450px;
+     
+  }
