@@ -7,6 +7,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    margin-bottom: 5px;
 }
 
 .button-style {
@@ -63,9 +64,40 @@ h3 {
 .section-flex{
     display: flex;
     margin: 100px;
+    margin-top: 50px;
 }
 .box{
     margin: 10px;
     /* background-color: green; */
     padding: 20px;
 }
+
+.email{
+    color: rgba(128, 128, 128, 0.76);
+    background-color: #D9D9D9;
+    padding: 8px 150px 8px 8px;
+    font-size: 2px;
+    margin: 0;
+}
+.Subscribe{
+    color: white;
+    background-color: #FF5959;
+    padding: 8px 20px;
+    margin: 0;
+}
+.emailbox{
+    width: 30%;
+    background-color: #FFF4D6;
+     padding: 60px 140px 60px 140px;    
+    margin: auto;
+    margin-bottom: 100px;
+}
+footer{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+/* .centrebox{
+    display: flex;
+    width: 50%;
+    margin: auto;
+} */
